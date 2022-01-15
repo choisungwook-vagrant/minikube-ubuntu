@@ -1,0 +1,7 @@
+server:
+  name: ubuntu-minikube
+  box: generic/ubuntu1804
+  hostname: ubuntu-minikube
+  ip: 192.168.25.77
+  memory: 4096
+  cpu: 4
